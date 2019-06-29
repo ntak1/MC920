@@ -1,0 +1,4 @@
+
+Image size (width x height): 2233 x 1374  pixels
+
+Number of connected components: 56

@@ -1,0 +1,78 @@
+OpenCV version: 3.4.2
+sift pair_index =  0
+num_matches =  2634
+time elapsed =  2.4962196350097656 
+
+sift pair_index =  1
+num_matches =  3604
+time elapsed =  2.6809024810791016 
+
+sift pair_index =  2
+num_matches =  541
+time elapsed =  0.35777783393859863 
+
+sift pair_index =  3
+num_matches =  827
+time elapsed =  0.3724806308746338 
+
+sift pair_index =  4
+num_matches =  19
+time elapsed =  0.23886394500732422 
+
+surf pair_index =  0
+num_matches =  2440
+time elapsed =  2.078580617904663 
+
+surf pair_index =  1
+num_matches =  2965
+time elapsed =  1.83585786819458 
+
+surf pair_index =  2
+num_matches =  1028
+time elapsed =  0.5448589324951172 
+
+surf pair_index =  3
+num_matches =  837
+time elapsed =  0.42164134979248047 
+
+surf pair_index =  4
+num_matches =  881
+time elapsed =  0.4356398582458496 
+
+orb pair_index =  0
+num_matches =  280
+time elapsed =  0.1244211196899414 
+
+orb pair_index =  1
+num_matches =  305
+time elapsed =  0.11462879180908203 
+
+orb pair_index =  2
+num_matches =  264
+time elapsed =  0.06732058525085449 
+
+orb pair_index =  3
+num_matches =  252
+time elapsed =  0.06322121620178223 
+
+orb pair_index =  4
+num_matches =  114
+time elapsed =  0.08307623863220215 
+
+brief pair_index =  0
+num_matches =  508
+time elapsed =  0.14111757278442383 
+
+brief pair_index =  1
+num_matches =  353
+time elapsed =  0.09713125228881836 
+
+brief pair_index =  2
+num_matches =  32
+time elapsed =  0.03257465362548828 
+
+brief pair_index =  3
+num_matches =  80
+time elapsed =  0.07073855400085449 
+
+brief pair_index =  4
