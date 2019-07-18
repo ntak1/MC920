@@ -4,7 +4,7 @@ Neste diretŕio encontram-se dois arquivos executáveis.
 *   trabalho4.py: um script em Python 3, ao exevutálo por um terminal bash:
    ```bash
     python3 trabalho4.py
-    ```
+   ```
     Será criada uma pasta "output", e diretórios filhos:
     *   brief
     *   sift
